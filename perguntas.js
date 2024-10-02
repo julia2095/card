@@ -8,7 +8,7 @@ criaCartao
 criaCartao
     (
     'Geografia',
-    'Quantos minutos tem uma semana inteira?,    
+    'Quantos minutos tem uma semana inteira?',
     '10.800'
 )
 
@@ -44,7 +44,7 @@ criaCartao
     (
     'Atronomia',
     'Por que o espaço é escuro mesmo nas proximidades do Sol?',
-    'A luminosidade azulada que percebemos na Terra de dia é resultado da difusão dos raios solares na atmosfera. A ausência de matéria que exerça função semelhante em outras regiões do espaço torna-o escuro.
+    'A luminosidade azulada que percebemos na Terra de dia é resultado da difusão dos raios solares na atmosfera. A ausência de matéria que exerça função semelhante em outras regiões do espaço torna-o escuro.'
 
 )
 
